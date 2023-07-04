@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Bhop
+- 👋 Hi, I’m @Straight
 - 👀 I’m interested in tweaking PCs
 - 🌱 I’m currently learning C#
