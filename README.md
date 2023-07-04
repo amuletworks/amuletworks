@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Straight
-- 👀 I’m interested in tweaking PCs
-- 🌱 I’m currently learning C#
+- 👋 Hi, i'm @stra7ght 
+- 👨‍💻 I'm currently developing [Karma](https://github.com/stra7ght/karma)
+- 🌱 I'm currently learning JavaScript.
+- 🌆 Join [Karma Discord](https://discord.gg/NJs7xn5mF8) server!
