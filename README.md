@@ -1,4 +1,5 @@
-- 👋 Hi, i'm @stra7ght 
-- 👨‍💻 I'm currently developing [Karma](https://github.com/stra7ght/karma)
-- 🌱 I'm currently learning JavaScript.
-- 🌆 Join [Karma Discord](https://discord.gg/NJs7xn5mF8) server!
+# This profile represents Ethereal Engines
+However, it belongs to xyz, the CEO
+
+Karma is **no more** Ethereal's Project
+We're currently working on [Void](https://discord.gg/JAHAaNTEMP)
