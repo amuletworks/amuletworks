@@ -1,5 +1,7 @@
-# This profile represents Ethereal Engines
-However, it belongs to xyz, the CEO
+### a m u l e t  w o r k s
+#
 
-### Karma is **no more** Ethereal's Project
-- We're currently working on [Void](https://discord.gg/JAHAaNTEMP)
+
+[Discord Server](https://discord.gg/bFWKy7xB6g)
+
+[Amulet Software](https://github.com/amuletworks/amulet)
