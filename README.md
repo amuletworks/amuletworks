@@ -4,4 +4,4 @@
 
 [Discord Server](https://discord.gg/xvTtY8vDqr)
 
-[Amulet Software](https://github.com/amuletworks/cartel)
+[Cartel](https://github.com/amuletworks/cartel)
