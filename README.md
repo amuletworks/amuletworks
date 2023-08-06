@@ -2,6 +2,6 @@
 #
 
 
-[Discord Server](https://discord.gg/bFWKy7xB6g)
+[Discord Server](https://discord.gg/xvTtY8vDqr)
 
-[Amulet Software](https://github.com/amuletworks/amulet)
+[Amulet Software](https://github.com/amuletworks/cartel)
